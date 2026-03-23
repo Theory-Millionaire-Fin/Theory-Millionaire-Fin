@@ -33,16 +33,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Theory-Millionaire-Fin&theme=radical" width="48%" />
 </p>
 
-### 📈 活跃概览 | Activity Profile
+### 📈 活跃度分析 | Activity Analysis
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theory-Millionaire-Fin&theme=radical" width="100%" />
 </p>
 
----
-
-### 🏙️ 贡献城市 | Contribution City
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Theory-Millionaire-Fin&theme=dark&radiant=true" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Theory-Millionaire-Fin&theme=radical" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Theory-Millionaire-Fin&theme=radical&utcOffset=8" width="49%" />
 </p>
 
 ---
