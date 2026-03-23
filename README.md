@@ -1,10 +1,10 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7CA18&center=false&vCenter=false&width=500&lines=Hi+there!+I'm+Theory-Millionaire;FinTech+Student+@+DUFE;Seeking+Alpha+with+AI..." alt="Typing SVG" /> 👋
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7CA18&center=false&vCenter=false&width=1000&lines=Hi+there!+I'm+Theory-Millionaire;FinTech+Student+@+DUFE;Seeking+Alpha+with+AI..." alt="Typing SVG" /> 👋
 
 ### 🎓 关于我 | About Me
 > "Theory-Millionaire: Rich in models, seeking the Alpha."
 
-- 🔭 **目前关注:** LLM 幻觉检测 (Hallucination Detection) & 金融多智能体系统
-- 📊 **正在进行:** [Streamlit UI 交互作业](https://github.com/Theory-Millionaire-Fin/dufe-streamlit-ui-sample)
+- 🔭 **目前关注:** 量化交易决策 & 金融多智能体系统
+- 📊 **正在进行:** agent审计助手 (https://github.com/Theory-Millionaire-Fin/dufe-bimawei-ui-sample)
 - ⚡ **冷幽默:** "It's just one line." (其实是一条线呗)
 
 ---
