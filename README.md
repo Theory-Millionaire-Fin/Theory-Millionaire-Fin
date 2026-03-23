@@ -45,7 +45,8 @@
 
 ---
 
-### 🐾 访客足迹 | Visitors
+### 🔒 账户访问审计 | Security Audit
 <p align="right">
-  <img src="https://count.getloli.com/get/@Theory-Millionaire-Fin?theme=moebooru" alt="Moe Counter" />
+  <b>Unauthorized Access Attempts:</b> 
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FTheory-Millionaire-Fin%2FTheory-Millionaire-Fin.json&color=yellow&style=flat-square" />
 </p>
