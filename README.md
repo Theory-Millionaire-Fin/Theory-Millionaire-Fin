@@ -40,3 +40,4 @@
 <p align="right">
   <img src="https://count.getloli.com/get/@Theory-Millionaire-Fin?theme=moebooru" alt="Moe Counter" />
 </p>
+.
