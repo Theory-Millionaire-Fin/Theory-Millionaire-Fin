@@ -31,9 +31,8 @@
 
 ### 🏙️ 贡献城市 | Contribution City
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Theory-Millionaire-Fin&theme=dark&radiant=true" alt="3D Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theory-Millionaire-Fin&theme=radical" width="100%" />
 </p>
-
 ---
 
 ### 🐾 访客足迹 | Visitors
